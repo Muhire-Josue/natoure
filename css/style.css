@@ -75,6 +75,8 @@ body {
   animation: moveInRight 3s ease-out;
 }
 
+/* text annimation */
+
 @keyframes moveInleft {
   0% {
     opacity: 0;
