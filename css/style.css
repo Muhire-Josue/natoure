@@ -108,3 +108,15 @@ body {
     transform: translate(0);
   }
 }
+
+.btn:link .btn:visited {
+  text-transform: uppercase;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.btn-white {
+  background-color: #fff;
+  color: #777;
+  padding: 15px 40px;
+}
